@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "support_resistance_csharp/1.0.0": {
+        "runtime": {
+          "support_resistance_csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "support_resistance_csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

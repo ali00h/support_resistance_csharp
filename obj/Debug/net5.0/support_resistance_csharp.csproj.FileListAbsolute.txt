@@ -1,0 +1,16 @@
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\bin\Debug\net5.0\support_resistance_csharp.exe
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\bin\Debug\net5.0\support_resistance_csharp.deps.json
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\bin\Debug\net5.0\support_resistance_csharp.runtimeconfig.json
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\bin\Debug\net5.0\support_resistance_csharp.runtimeconfig.dev.json
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\bin\Debug\net5.0\support_resistance_csharp.dll
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\bin\Debug\net5.0\ref\support_resistance_csharp.dll
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\bin\Debug\net5.0\support_resistance_csharp.pdb
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\obj\Debug\net5.0\support_resistance_csharp.csprojAssemblyReference.cache
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\obj\Debug\net5.0\support_resistance_csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\obj\Debug\net5.0\support_resistance_csharp.AssemblyInfoInputs.cache
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\obj\Debug\net5.0\support_resistance_csharp.AssemblyInfo.cs
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\obj\Debug\net5.0\support_resistance_csharp.csproj.CoreCompileInputs.cache
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\obj\Debug\net5.0\support_resistance_csharp.dll
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\obj\Debug\net5.0\ref\support_resistance_csharp.dll
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\obj\Debug\net5.0\support_resistance_csharp.pdb
+D:\Ali\Projects\StockMonitoring\Codes\support_resistance_csharp\obj\Debug\net5.0\support_resistance_csharp.genruntimeconfig.cache
