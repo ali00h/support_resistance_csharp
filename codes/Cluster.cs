@@ -60,7 +60,7 @@ namespace support_resistance_csharp
             List<double> result = new List<double>();
             if(suggested.Count > 0)
                 result.Add(suggested[0].Result);
-            if(suggested.Count > 1 && suggested[0].Count == suggested[1].Count && suggested[1].Count > 1)
+            if(suggested.Count > 1 && suggested[0].Count-1 <= suggested[1].Count && suggested[1].Count > 1)
                 result.Add(suggested[1].Result);
 
             if(this.isDown)    
