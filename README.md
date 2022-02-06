@@ -9,3 +9,8 @@ If your dataset file is sample1.txt. Just run:
 ```bash
 dotnet run sample1.txt
 ```
+$ Build
+
+```bash
+dotnet build /p:AssemblyVersion=1.0.1.0
+```

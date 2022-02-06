@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace support_resistance_csharp
 {
-    class SupportResistanceCalculator
+    public class SupportResistanceCalculator
     {
         public bool debug = false;
         private List<Double> line;
@@ -66,6 +66,9 @@ namespace support_resistance_csharp
 
             if(SupportNumbers.Count > 0) this.support1 = SupportNumbers[0];
             if(SupportNumbers.Count > 1) this.support2 = SupportNumbers[1];
+
+            if(this.support1 == 0) this.support1 = currentValue;
+            if(this.resistance1 == 0) this.resistance1 = currentValue;
         }
 
         private void ShowMessage(string msg){

@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace support_resistance_csharp
 {
-    class DatasetReader
+    public class DatasetReader
     {
         private string directoryPath;
         private string fileName;
